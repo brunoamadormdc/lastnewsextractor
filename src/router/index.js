@@ -11,6 +11,7 @@ const routes = [
     name: 'Home',
     component: Home
   },
+  
   {
     path: '/links',
     name: 'Links',
