@@ -7,7 +7,7 @@
 
 <style lang="less">
 body {
-   background-color:#fbdf69 !important;
+   background-color:#fff !important;
 }
 
 #app {

@@ -63,7 +63,7 @@ export default {
         let obj = {
           'url':this.formLink.url
         }
-        const {data} = await postLinks('page',obj)
+        const {data} = await postLinks('scrap/page',obj)
         this.lista = data.links
         this.loading = false
       }
